@@ -1,0 +1,48 @@
+/* */
+
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+h1 {color: green;}
+h2 {color: green;}
+img {text-align: center;}
+
+.Texto { text-align: center; }
+
+.Popularidade {text-align: center;}
+
+#imagem1 {
+    margin-right: 30px;
+    border: solid aliceblue 10px;
+}
+ #imagem2 {
+    margin-left: 30px;
+    border: solid aliceblue 10px;
+ }
+
+ #Imagem3 {border: solid aliceblue 4px;}
+
+ #Imagem10 {border: solid aliceblue 4px}
+
+ #Frase {text-align: center;}
+
+ .cabeçalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    gap: 70px;
+    color: aliceblue;
+    margin: auto;
+    background-color: black;
+    
+}
+
+#Rui {color: aliceblue;}
+
+#Tche {border: solid aliceblue 10px;}
+
+#Baka {border: solid aliceblue 10px;}
